@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rigoberto Antonio Sosa...but you can call me "Rigo" for short!
-- 👀 I’m interested in 📈algotrading, 🚀aerospace, and 💻FAANG!
+- 👀 I’m interested in 📈algotrading, 🚀avionics, and 💻FAANG!
 - 🌱 I’m currently learning 💽C++ and 🐍Python!
 - 💞️ I’m looking to collaborate on 🤖robotics and 👨🏼‍💻data pipelines!
 - 📫 You can reach me at hikingtails707@gmail.com 
